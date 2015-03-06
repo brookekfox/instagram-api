@@ -45,7 +45,7 @@ You can test the above URL in your browser by navigating to
 	
 For instance, if I put in my API key and my Instagram username, I get
 
-![image]()
+![image](https://github.com/brookekfox/instagram-api/blob/master/screenshots/json.png)
 
 From this JSON, we can see exactly how to grab the pieces of information provided.
 
