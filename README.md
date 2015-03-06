@@ -2,7 +2,7 @@
 
 
 ###Adding the necessary ingredients
-First go to [Instagram API](https://instagram.com/developer/) and register you application to recevie authentication.
+First go to [Instagram API](https://instagram.com/developer/) and register you application to receive authentication.
 
 Go to your Rails app. In the Gemfile, add 
 
